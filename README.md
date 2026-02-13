@@ -1,4 +1,7 @@
 YouTube Trending Pipeline
+
+
+
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-green?style=for-the-badge&logo=sqlite)
 ![API](https://img.shields.io/badge/API-YouTube-red?style=for-the-badge&logo=youtube)
