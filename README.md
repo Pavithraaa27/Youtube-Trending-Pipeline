@@ -16,7 +16,6 @@ FEATURES
 - Clean and structured pipeline logic
 - Environment-based API key management
 - Added setup instructions for environment variables
-- Minor documentation update
 
 ---
 TECH STACK
