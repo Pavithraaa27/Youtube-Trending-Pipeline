@@ -65,6 +65,21 @@ python main.py
 
 ---
 
+### 📊 Output
+Top 10 trending YouTube videos
+Stored structured dataset in SQLite database
+Ready for analytics or dashboard integration
+
+---
+
+### 💡 Future Improvements
+📈 Add dashboard using Streamlit / Flask
+☁️ Deploy on cloud (AWS / Render)
+📊 Add charts & visualization
+⏱️ Automate daily data collection
+
+---
+
 ### 👩‍💻 Author
 
 Pavithra Nair
